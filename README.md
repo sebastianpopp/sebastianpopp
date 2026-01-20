@@ -1,6 +1,6 @@
 # Hi,
 
-my name is **Sebastian Popp**. I’m a freelance full-stack web developer from Hamburg, Germany with over ten years of experience.
+my name is **Sebastian Popp**. I’m a freelance full-stack web developer from Hamburg, Germany with over fifteen years of experience.
 
 I develop highly customized web applications, mostly based on **WordPress** or **Laravel**, and interactive frontends, usually with **Vue.js** or **Svelte**.
 
